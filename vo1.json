@@ -1,75 +1,74 @@
 [
-    {
-      title: "pdfmake Essentials: Tips and Tricks for Getting Started",
-      desc: "Find a collection of tips and tricks for getting started with pdfmake, from setting up your development environment to building your first PDF. You'll learn how to create tables, images, and other elements in your PDFs, and how to style them to make them look great.",
-      videos: [
-        {
-          title:
-            "Eps #01 - Getting Started, Installation and Playground Setup locally",
-          videoId: "0NOQGRbQEPw",
-          tags: ["pdfmake", "nodejs", "javascript"],
-        },
-        {
-          title: "Eps #02 - Text, Page Dimensions, Background and Sample PDF",
-          videoId: "eb4I4E94wn0",
-          tags: ["pdfmake", "nodejs", "javascript"],
-        },
-        {
-          title: "Eps #03 - Lists, Columns & Tables",
-          videoId: "cRWasvmng0E",
-          tags: ["pdfmake", "nodejs", "javascript"],
-        },
-        {
-          title: "Eps #04 - Images",
-          videoId: "fgF8B8RqAXM",
-          tags: ["pdfmake", "nodejs", "certificates"],
-        },
-        {
-          title: "Eps #05 - Generate Certificate",
-          videoId: "GM7sQRQIcs4",
-          tags: ["pdfmake", "nodejs", "certificate"],
-        },
-      ],
-    },
-    {
-      title: "Python for Beginners: Learn, Build, Test, Repeat",
-      desc: "Learn the fundamentals of Python, including its syntax, data types, and control structures. You'll also explore how to build real-world applications using Python, and how to test them to ensure their functionality.",
-      videos: [
-        {
-          title: "Simplify Your Code with Unpacking/Spread Operator",
-          videoId: "W2mLGd_gB5g",
-          tags: ["python", "unpacking", "spread operator"],
-        },
-        {
-          title: "Revolutionise Your Python Code with Dictionaries",
-          videoId: "PHAaAiM2Em4",
-          tags: ["python", "dictionaries"],
-        },
-        {
-          title: "Update python dictionay",
-          videoId: "i6RD3J9oRtM",
-          tags: ["python", "dictionaries"],
-        },
-        {
-          title: "Working with JSON and Data types",
-          videoId: "ksYuG0xftAI",
-          tags: ["python", "json", "data types"],
-        },
-        {
-          title: "Flask - REST API - GET, POST Method",
-          videoId: "h6zns33zVzY",
-          tags: ["python", "flask", "rest api"],
-        },
-        {
-          title: "Web Developer to Full Stack Developer (#10 steps)",
-          videoId: "44-NQsNvUaI",
-          tags: ["python", "web development", "full stack"],
-        },
-        {
-          title: "Flask Getting Started",
-          videoId: "7dcQxZ80fB8",
-          tags: ["python", "flask"],
-        },
-      ],
-    },
-  ]
+  {
+    "title": "pdfmake Essentials: Tips and Tricks for Getting Started",
+    "desc": "Find a collection of tips and tricks for getting started with pdfmake, from setting up your development environment to building your first PDF. You'll learn how to create tables, images, and other elements in your PDFs, and how to style them to make them look great.",
+    "videos": [
+      {
+        "title": "Eps #01 - Getting Started, Installation and Playground Setup locally",
+        "videoId": "0NOQGRbQEPw",
+        "tags": ["pdfmake", "nodejs", "javascript"]
+      },
+      {
+        "title": "Eps #02 - Text, Page Dimensions, Background and Sample PDF",
+        "videoId": "eb4I4E94wn0",
+        "tags": ["pdfmake", "nodejs", "javascript"]
+      },
+      {
+        "title": "Eps #03 - Lists, Columns & Tables",
+        "videoId": "cRWasvmng0E",
+        "tags": ["pdfmake", "nodejs", "javascript"]
+      },
+      {
+        "title": "Eps #04 - Images",
+        "videoId": "fgF8B8RqAXM",
+        "tags": ["pdfmake", "nodejs", "certificates"]
+      },
+      {
+        "title": "Eps #05 - Generate Certificate",
+        "videoId": "GM7sQRQIcs4",
+        "tags": ["pdfmake", "nodejs", "certificate"]
+      }
+    ]
+  },
+  {
+    "title": "Python for Beginners: Learn, Build, Test, Repeat",
+    "desc": "Learn the fundamentals of Python, including its syntax, data types, and control structures. You'll also explore how to build real-world applications using Python, and how to test them to ensure their functionality.",
+    "videos": [
+      {
+        "title": "Simplify Your Code with Unpacking/Spread Operator",
+        "videoId": "W2mLGd_gB5g",
+        "tags": ["python", "unpacking", "spread operator"]
+      },
+      {
+        "title": "Revolutionise Your Python Code with Dictionaries",
+        "videoId": "PHAaAiM2Em4",
+        "tags": ["python", "dictionaries"]
+      },
+      {
+        "title": "Update python dictionay",
+        "videoId": "i6RD3J9oRtM",
+        "tags": ["python", "dictionaries"]
+      },
+      {
+        "title": "Working with JSON and Data types",
+        "videoId": "ksYuG0xftAI",
+        "tags": ["python", "json", "data types"]
+      },
+      {
+        "title": "Flask - REST API - GET, POST Method",
+        "videoId": "h6zns33zVzY",
+        "tags": ["python", "flask", "rest api"]
+      },
+      {
+        "title": "Web Developer to Full Stack Developer (#10 steps)",
+        "videoId": "44-NQsNvUaI",
+        "tags": ["python", "web development", "full stack"]
+      },
+      {
+        "title": "Flask Getting Started",
+        "videoId": "7dcQxZ80fB8",
+        "tags": ["python", "flask"]
+      }
+    ]
+  }
+]
